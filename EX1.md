@@ -28,7 +28,8 @@ create table student_table(Roll_no numeric(10) , Name varchar(20) , Age numeric(
 
 ### OUTPUT:
 ![image](https://github.com/kavinesh8476/H2_DBMS/assets/118466561/4a32c0c9-ee02-4e11-a898-2abd9be28300)
-![image](https://github.com/kavinesh8476/H2_DBMS/assets/118466561/bc2e9eba-0b51-4790-aa3a-1626e6454cfb)
+![Screenshot (31)](https://github.com/Melvin14112004/F2_DBMS/assets/129204995/6f077858-c662-4528-986b-9ea2759874fb)
+
 ### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
